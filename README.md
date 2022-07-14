@@ -7,6 +7,7 @@
 3. Used Python modules
 
 ![Picture](https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/shape%2Fcover%2Fsport%2F94735-istock-863607936-b27c422700db46a2d9b0c224305663d6.jpg)
+*Source: https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/shape%2Fcover%2Fsport%2F94735-istock-863607936-b27c422700db46a2d9b0c224305663d6.jpg*
 
 ### 1. Description of how the code works ###
 
