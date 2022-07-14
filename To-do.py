@@ -3,7 +3,7 @@ import pickle
 
 import click
 
-FILENAME = r'M07\M07_solutions\todos.db'
+FILENAME = r'todos.db'
 
 @dataclass
 class Todos:
