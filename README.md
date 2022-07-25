@@ -24,7 +24,7 @@ A set of unit tests has also been prepared for the program in the ```Tests.py```
 
 It is used to create a new database (```todos.db``` file). It has a special argument ```--example```, in which if given, a sample list of tasks is added to the created database. 
 
-**ATTENTION!** Automatically the todos.db file is not overwritten, you can change this functionality with the options parameter.
+**ATTENTION!** Automatically the ```todos.db``` file is not overwritten, you can change this functionality with the options parameter.
 
 - ```list```
 
@@ -32,7 +32,7 @@ Selecting this option display the task list in the todos.db file in the console.
 
 - ```add```
 
-It allows you to add a new task to the todos.db file. The user is obliged to provide the name of the new task (otherwise, ValueError will be raised). By default: the status of a newly added task is unknown, and the index will be generated automatically.
+It allows you to add a new task to the ```todos.db``` file. The user is obliged to provide the name of the new task (otherwise, ValueError will be raised). By default: the status of a newly added task is unknown, and the index will be generated automatically.
 
 ### 3. Used Python modules ###
 - ```dataclasses```
