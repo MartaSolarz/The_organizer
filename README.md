@@ -15,28 +15,29 @@ The program is used to construct a list of tasks to be performed and present a s
 
 It has several optional parameters (see more: 2. Available functionalities). The available options have been built using the click module. 
 
-A set of unit tests has also been prepared for the program in the Tests.py file.
+A set of unit tests has also been prepared for the program in the ```Tests.py``` file.
 
 ### 2. Available functionalities ###
 
 **Feature List:**
-- init 
+- ```init```
 
-It is used to create a new database (todos.db file). It has a special argument --example, in which if given, a sample list of tasks is added to the created database. 
+It is used to create a new database (```todos.db``` file). It has a special argument ```--example```, in which if given, a sample list of tasks is added to the created database. 
+
 **ATTENTION!** Automatically the todos.db file is not overwritten, you can change this functionality with the options parameter.
 
-- list
+- ```list```
 
 Selecting this option display the task list in the todos.db file in the console.
 
-- add
+- ```add```
 
 It allows you to add a new task to the todos.db file. The user is obliged to provide the name of the new task (otherwise, ValueError will be raised). By default: the status of a newly added task is unknown, and the index will be generated automatically.
 
 ### 3. Used Python modules ###
-- dataclasses
-- pickle
-- click
-- pytest (tests)
+- ```dataclasses```
+- ```pickle```
+- ```click```
+- ```pytest``` (tests)
 
 **Author:** Marta Solarz
