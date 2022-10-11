@@ -38,6 +38,6 @@ It allows you to add a new task to the ```todos.db``` file. The user is obliged 
 - ```dataclasses```
 - ```pickle```
 - ```click```
-- ```pytest``` (tests)
+- ```pytest``` (for tests)
 
 **Author:** Marta Solarz
